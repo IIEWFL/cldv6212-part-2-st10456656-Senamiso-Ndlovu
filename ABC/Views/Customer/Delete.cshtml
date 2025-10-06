@@ -1,0 +1,7 @@
+﻿@model ABC.Models.CustomerEntity
+<h2>Delete Customer</h2>
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="RowKey" />
+    <p>Are you sure you want to delete @Model.CustomerName ?</p>
+    <button type="submit">Delete</button>
+</form>

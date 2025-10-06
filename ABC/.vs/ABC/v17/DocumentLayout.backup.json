@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\models\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:models\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\services\\storage\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:services\\storage\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\services\\storage\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:services\\storage\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\services\\storage\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:services\\storage\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\services\\storage\\filesharestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:services\\storage\\filesharestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\models\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:models\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10456656-senamiso-ndlovu\\abc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6ADE3A-0FA8-4D71-A3C5-FDC9D9B4796B}|ABC.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T03:48:20.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FunctionService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\FunctionService.cs",
+              "RelativeDocumentMoniker": "Services\\FunctionService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\FunctionService.cs",
+              "RelativeToolTip": "Services\\FunctionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:48:01.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAYwBYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:59:20.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:48:17.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T05:47:54.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T05:47:05.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T05:35:36.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Order\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T05:45:09.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T05:47:51.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T07:08:13.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "Models\\OrderViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T05:43:12.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "Models\\OrderEntity.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\OrderEntity.cs",
+              "RelativeToolTip": "Models\\OrderEntity.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T05:20:27.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\Storage\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Storage\\BlobStorageService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\Storage\\BlobStorageService.cs",
+              "RelativeToolTip": "Services\\Storage\\BlobStorageService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T08:20:30.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T06:36:27.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T08:11:44.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\Storage\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Storage\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\Storage\\TableStorageService.cs",
+              "RelativeToolTip": "Services\\Storage\\TableStorageService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T08:20:49.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QueueStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\Storage\\QueueStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Storage\\QueueStorageService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\Storage\\QueueStorageService.cs",
+              "RelativeToolTip": "Services\\Storage\\QueueStorageService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T08:20:42.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileShareStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\Storage\\FileShareStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Storage\\FileShareStorageService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Services\\Storage\\FileShareStorageService.cs",
+              "RelativeToolTip": "Services\\Storage\\FileShareStorageService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T08:20:36.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T06:01:43.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "Models\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\ProductEntity.cs",
+              "RelativeToolTip": "Models\\ProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:58:31.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerEntity.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\CustomerEntity.cs",
+              "RelativeToolTip": "Models\\CustomerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T08:19:53.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Models\\AuditLog.cs",
+              "RelativeToolTip": "Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T08:19:47.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAuwNoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:32:56.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:47:18.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuditLogController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Controllers\\AuditLogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuditLogController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Controllers\\AuditLogController.cs",
+              "RelativeToolTip": "Controllers\\AuditLogController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T08:14:56.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T06:37:48.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:09:32.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:09:25.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:09:09.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T05:47:14.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10456656-Senamiso-Ndlovu\\ABC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:08:53.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿@model IEnumerable<ABC.Models.CustomerEntity>
+<h2>Customers</h2>
+<p><a asp-action="Create">Create New</a></p>
+<table class="table">
+    <tr><th>Name</th><th>Email</th><th>Actions</th></tr>
+    @foreach (var c in Model)
+    {
+        <tr>
+            <td>@c.CustomerName</td>
+            <td>@c.CustomerEmail</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@c.RowKey">Details</a> |
+                <a asp-action="Edit" asp-route-id="@c.RowKey">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@c.RowKey">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

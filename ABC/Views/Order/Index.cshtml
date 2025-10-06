@@ -1,0 +1,46 @@
+﻿@model List<ABC.Models.OrderViewModel>
+
+@{
+    ViewData["Title"] = "Orders";
+}
+
+<h2>Orders</h2>
+
+<form asp-action="Index" method="get">
+    <div class="form-group">
+        <input name="search" class="form-control" placeholder="Search by customer or product" />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Customer Name</th>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Order Date</th>
+            <th>Total Price</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CustomerName</td>
+                <td>@item.ProductName</td>
+                <td>@item.Quantity</td>
+                <td>@item.OrderDate</td>
+                <td>@item.TotalPrice</td>
+                <td>@item.Status</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.RowKey">Details</a> |
+                    <a asp-action="Edit" asp-route-id="@item.RowKey">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.RowKey">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,7 @@
+﻿@model ABC.Models.CustomerEntity
+<h2>Create Customer</h2>
+<form asp-action="Create" method="post">
+    <label>Name</label><input asp-for="CustomerName" />
+    <label>Email</label><input asp-for="CustomerEmail" />
+    <button type="submit">Save</button>
+</form>
